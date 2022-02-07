@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a31af52f-9dad-438d-8cf6-98fe180ca07a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode/初级算法/数组/有效的数独.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="dev-env-private-10-10-5-37" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="24lauA4tox8RUJdK7Dr4cYTGNww" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build 有效的数独.go">
+    <configuration name="go build 有效的数独.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="xc-learn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/leetcode/初级算法/数组/有效的数独.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 旋转数组.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="xc-learn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/leetcode/初级算法/数组/旋转数组.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 只出现一次的数字.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="xc-learn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/leetcode/初级算法/数组/只出现一次的数字.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 加一.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="xc-learn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/leetcode/初级算法/数组/加一.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 移动零.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="xc-learn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/leetcode/初级算法/数组/移动零.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build 有效的数独.go" />
+        <item itemvalue="Go Build.go build 移动零.go" />
+        <item itemvalue="Go Build.go build 加一.go" />
+        <item itemvalue="Go Build.go build 只出现一次的数字.go" />
+        <item itemvalue="Go Build.go build 旋转数组.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom" timestamp="1644237722576">
+      <screen x="-1920" y="-99" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644217935308" />
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644237722576" />
+    <state width="1876" height="304" key="GridCell.Tab.0.center" timestamp="1644237722575">
+      <screen x="-1920" y="-99" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644217935306" />
+    <state width="1876" height="304" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644237722575" />
+    <state width="1876" height="304" key="GridCell.Tab.0.left" timestamp="1644237722575">
+      <screen x="-1920" y="-99" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644217935306" />
+    <state width="1876" height="304" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644237722575" />
+    <state width="1876" height="304" key="GridCell.Tab.0.right" timestamp="1644237722575">
+      <screen x="-1920" y="-99" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644217935307" />
+    <state width="1876" height="304" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644237722575" />
+    <state width="1876" height="375" key="GridCell.Tab.1.bottom" timestamp="1644233842823">
+      <screen x="-1920" y="-99" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644213783795" />
+    <state width="1876" height="375" key="GridCell.Tab.1.bottom/0.25.1440.875/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644233842823" />
+    <state width="1876" height="375" key="GridCell.Tab.1.center" timestamp="1644233842822">
+      <screen x="-1920" y="-99" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.center/0.0.1440.900/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644213783794" />
+    <state width="1876" height="375" key="GridCell.Tab.1.center/0.25.1440.875/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644233842822" />
+    <state width="1876" height="375" key="GridCell.Tab.1.left" timestamp="1644233842822">
+      <screen x="-1920" y="-99" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.left/0.0.1440.900/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644213783793" />
+    <state width="1876" height="375" key="GridCell.Tab.1.left/0.25.1440.875/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644233842822" />
+    <state width="1876" height="375" key="GridCell.Tab.1.right" timestamp="1644233842822">
+      <screen x="-1920" y="-99" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="375" key="GridCell.Tab.1.right/0.0.1440.900/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644213783794" />
+    <state width="1876" height="375" key="GridCell.Tab.1.right/0.25.1440.875/-1920.-99.1920.1080@-1920.-99.1920.1080" timestamp="1644233842822" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/leetcode/初级算法/数组/加一.go</url>
+          <line>41</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
