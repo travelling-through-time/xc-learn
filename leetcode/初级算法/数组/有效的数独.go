@@ -55,6 +55,9 @@ board[i][j] 是一位数字（1-9）或者 '.'
 
  */
 
+
+//TODO: https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/x2f9gg/
+
 func main() {
 	l := [][]byte{
 		{'8','3','.','.','7','.','.','.','.'},
@@ -67,12 +70,7 @@ func main() {
 		{'.','.','.','4','1','9','.','.','5'},
 		{'.','.','.','.','8','.','.','7','9'}}
 
-	fmt.Println('8' - '1')
-	for i,v := range l {
-		fmt.Println(i)
-		fmt.Println(v)
-		fmt.Println("-----")
-	}
+	isValidSudoku(l)
 
 
 }
@@ -81,6 +79,7 @@ func isValidSudoku(board [][]byte) bool {
 	var subboxes [3][3][9]int
 	for i, row := range board {
 		for j, c := range row {
+			fmt.Println(c)
 			if c == '.' {
 				continue
 			}
