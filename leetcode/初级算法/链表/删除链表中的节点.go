@@ -67,5 +67,7 @@ func deleteNode(head *ListNode, val int) *ListNode {
 	return dummy.Next
 }
 
-
+func deleteNode1(node *ListNode) {
+	*node = *node.Next
+}
 
