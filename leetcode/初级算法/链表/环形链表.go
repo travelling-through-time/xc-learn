@@ -42,3 +42,27 @@ pos 为 -1 或者链表中的一个 有效索引 。
 进阶：你能用 O(1)（即，常量）内存解决此问题吗？
 
  */
+
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+func hasCycle(head *ListNode) bool {
+	if head == nil || head.Next == nil {
+		return false
+	}
+
+	fast, slow := head.Next, head
+
+	for fast != slow {
+		if fast == nil || fast.Next == nil {
+			return false
+		}
+		fast = fast.Next.Next
+		slow = slow.Next
+	}
+	return true
+}
