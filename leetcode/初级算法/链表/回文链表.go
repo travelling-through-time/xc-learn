@@ -26,3 +26,68 @@ package main
 进阶：你能否用 O(n) 时间复杂度和 O(1) 空间复杂度解决此题？
 
  */
+
+func main() {
+
+}
+
+
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+
+
+// O(1) 解决
+func isPalindrome(head *ListNode) bool {
+
+
+	if head == nil {
+		return true
+	}
+	//快慢指针 找到中间
+	qianmiande := findMid(head)
+	// 反转链表
+	houmiande := fanzhuan(qianmiande.Next)
+
+	p1 := head
+	p2 := houmiande
+
+	for p2 != nil {
+		if p1.Val == p2.Val {
+			p1 = p1.Next
+			p2 = p2.Next
+			continue
+		}
+		return false
+	}
+	return true
+}
+
+
+func findMid(head *ListNode) *ListNode {
+	fast := head
+	slow := head
+
+	for fast.Next != nil && fast.Next.Next != nil {
+		fast = fast.Next.Next
+		slow = slow.Next
+	}
+	return slow
+}
+
+func fanzhuan(head *ListNode) *ListNode {
+	var cur, tou *ListNode = head, nil
+
+	for cur != nil {
+		var next = cur.Next
+		cur.Next = tou
+		tou = cur
+		cur = next
+	}
+
+	return tou
+}
