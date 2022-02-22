@@ -27,3 +27,4 @@ bin
 # archive files
 *.tgz
 *.tar.gz
+Go/.DS_Store
